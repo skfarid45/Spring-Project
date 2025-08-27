@@ -12,6 +12,7 @@
 	<artifactId>ecom-proj</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ecom-proj</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
